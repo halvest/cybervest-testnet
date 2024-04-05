@@ -1,0 +1,3 @@
+[submodule "cybervest/lib/forge-std"]
+	path = cybervest/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
